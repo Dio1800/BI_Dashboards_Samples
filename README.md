@@ -11,6 +11,6 @@ The files were also included on this repository to make sure this specific versi
 
 The first sample was developed on Power BI Desktop tool
 
-## Other tools
+## Others tools
 
 Other tools may be used in future. One folder will be created for each additional BI Tool.
